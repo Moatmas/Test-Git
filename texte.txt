@@ -1,4 +1,8 @@
 SALUT ALAIN
 
+<<<<<<< HEAD
 modif 1
+=======
+cwcqcdqoihmOIEFMIZEG
+>>>>>>> 8cfee43f669775e304b9d286d6eb644fe7364097
 
